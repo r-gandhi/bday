@@ -43,7 +43,8 @@
 							'https://images.unsplash.com/photo-1463334535327-f9009ae62bf7?dpr=2&auto=format&crop=entropy&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb': 'center',
 							'https://images.unsplash.com/photo-1455732063391-5f50f4df1854?dpr=2&auto=format&crop=entropy&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb': 'center',
 							'https://images.unsplash.com/photo-1465060810938-30bbe7c40e76?dpr=2&auto=format&crop=entropy&fit=crop&w=1500&h=921&q=80&cs=tinysrgb': 'center',
-							'https://images.unsplash.com/photo-1464347744102-11db6282f854?dpr=2&auto=format&crop=entropy&fit=crop&w=1500&h=846&q=80&cs=tinysrgb': 'center'
+							'https://images.unsplash.com/photo-1464347744102-11db6282f854?dpr=2&auto=format&crop=entropy&fit=crop&w=1500&h=846&q=80&cs=tinysrgb': 'center',
+							'images/fam.jpg': 'center'
 						},
 
 					// Delay.
